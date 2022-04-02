@@ -5,4 +5,4 @@ If the number is guessed, Alert pops up to ask if user wants to try again on exi
 There is also a prompt label to help the user.
 User can draw a new number by clicking button "Try again!"
 
-### Feel free to use this app wherever you want! :)
+#### Feel free to use this app wherever you want! :)
